@@ -1,0 +1,9 @@
+.vs
+*.dll
+*.exe
+*.sln
+*.vcxproj
+*.vcxproj.filters.txt
+*.vcxproj.user
+x64
+External
