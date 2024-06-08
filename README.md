@@ -1,0 +1,2 @@
+# KnowledgeKicks
+Project of OOP.
